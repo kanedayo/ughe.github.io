@@ -55,7 +55,7 @@ Finally, the GTKWave command line tool can be run without any errors:
 
 Now this can be added to the `~/.bash_profile` with:
 ``` bash
-alias gktwave = /Applications/gtkwave.app/Contents/Resources/bin/gtkwave
+alias gtkwave = /Applications/gtkwave.app/Contents/Resources/bin/gtkwave
 ```
 or with:
 ``` bash
